@@ -19,14 +19,14 @@ const perguntas = [
         ]
     },//Esta vírgula é para separar os objetos
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "A inteligencia artificial afetou?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "A inteligência artificial (IA) afeta parte dos atuais empregos, mas também abre oportunidades para trabalhadores e empreendedores",
                 afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Não afeta em absolutamente nada.",
                 afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever"
             }            
         ]
